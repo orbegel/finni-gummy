@@ -8,7 +8,7 @@
 
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #fff;
+    background-color: #6b71b0;
     /* Fundo branco */
     color: #000;
     /* Texto preto */
@@ -354,7 +354,7 @@ nav ul li a:hover {
 /* Rodapé */
 
 footer {
-    background-color: #9d2235;
+    background-color: #d7475b;
     /* Fundo preto */
     color: #fff;
     /* Texto branco */
