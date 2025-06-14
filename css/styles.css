@@ -43,7 +43,7 @@ header {
 }
 
 header .logo img {
-    max-width: 100px;
+    max-width: 140px;
     /* Ajuste o tamanho da logo do cabeçalho */
     height: auto;
 }
