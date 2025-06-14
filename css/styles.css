@@ -18,7 +18,7 @@ body {
 /* Aviso de Frete Grátis */
 
 .aviso-frete {
-    background-color: #1c1c1b;
+    background-color: #171c8f;
     /* Mesma cor do cabeçalho */
     color: #fff;
     /* Texto branco */
@@ -32,7 +32,7 @@ body {
 /* Cabeçalho */
 
 header {
-    background-color: #9d2235;
+    background-color: #e64360;
     /* Fundo preto escuro */
     padding: 1rem;
     display: flex;
